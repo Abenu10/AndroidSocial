@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77337965373",
+    "project_id": "androidsocial-cdad7",
+    "storage_bucket": "androidsocial-cdad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77337965373:android:917f2245af55b8aff00b54",
+        "android_client_info": {
+          "package_name": "org.geeksforgeeks.androidsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77337965373-f19obhoeb3k7mg46mad22ltngcipjc5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.geeksforgeeks.androidsocial",
+            "certificate_hash": "fcd41f757640f73ef4e726d1e805d1d922e93d4e"
+          }
+        },
+        {
+          "client_id": "77337965373-3tevh84com6k4p5c4ott84a6su5qvv3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQO9jcwi7XHQdMkHGD9LPGvWOzC_6P4nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77337965373-3tevh84com6k4p5c4ott84a6su5qvv3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
